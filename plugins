@@ -1,0 +1,6 @@
+"plugins": [
+    "react",
+    "import",
+    "prefer-object-spread",
+    "prettier",
+    "react-hooks",
